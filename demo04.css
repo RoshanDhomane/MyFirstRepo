@@ -1,0 +1,21 @@
+.container{
+   
+    border: 1px solid black;
+    height:700;
+    width: 50%;
+}
+/* .border{
+    border: 1px solid black;
+} */
+td{
+    border: 1px solid black;
+}
+.demo1{
+    background-color: green;
+}
+.child > td{
+    border: none;
+}
+.child1 > td{
+    border: none;
+}

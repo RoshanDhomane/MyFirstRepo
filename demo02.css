@@ -1,0 +1,31 @@
+.demo1{
+    color: green;
+}
+
+.container{
+    height: 800px;
+    width: 50%;
+    border: 1px solid black;
+}
+
+.header{
+    text-align: center;
+}
+.check{ 
+    border: 1px solid black;
+    
+}
+td{
+    border: 1px solid black;
+}
+th{
+    
+    background: rgb(218, 166, 255);;
+}
+.left{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+.down{
+    border-bottom: 1px solid black;
+}
